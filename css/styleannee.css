@@ -1,0 +1,33 @@
+.anne
+{
+	display: flex;
+	
+	flex-wrap: wrap;
+	flex-direction: row;
+		text-decoration: none;
+	list-style-type: none;
+	
+	justify-content: space-around;
+	margin-top: 100px;
+
+}
+.anne a
+{
+	margin-right: 50px;
+	
+	font-size: 30px;
+	text-decoration: none;
+}
+.anne img
+{
+	width: 100px;
+}
+.card
+{
+	width: 200px;
+
+}
+.card img
+{
+	width: 100px;
+}
